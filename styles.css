@@ -34,3 +34,18 @@ h1{
     text-align: center;
     font-size: 1.5rem;
 }
+footer{
+    background-color: rgb(27, 27, 26);
+    padding: 2rem;
+    text-align: center;
+}
+
+small{
+    
+    color: white;
+}
+
+small a {
+    text-decoration: none;
+    color: white;
+}
