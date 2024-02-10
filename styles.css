@@ -28,3 +28,9 @@ h1{
     padding-bottom: 1rem;
     color: white;
 }
+.container{
+    background-color: rgb(191, 208, 233);
+    padding: 2rem 1rem;
+    text-align: center;
+    font-size: 1.5rem;
+}
